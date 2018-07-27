@@ -7,3 +7,4 @@ Graphs
 some popular algorithms(Dijkstra's, Prim's..)
 PriorityQueues(implementation + problems)
 OOPS
+Cartesian Tree
