@@ -10,3 +10,8 @@
  8) Cartesian Tree
  9) Linked Lists (implementation + utility functions + problems)
 10) Dequeue (Class)
+11) Sparse Matrix using:
+ 11.1) Arrays
+ 11.2) Linked Lists
+ 11.3) List of Lists
+ 11.4) Maps(Dictionary)
