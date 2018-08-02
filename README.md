@@ -15,3 +15,4 @@
  ii) Linked Lists
 iii) List of Lists
  iv) Maps(Dictionary)
+12) K Stacks in a single array (space efficient method)
