@@ -16,5 +16,6 @@
 iii) List of Lists
  iv) Maps(Dictionary)
 12) K Stacks in a single array (space efficient method)
-13) AVL Trees (Self Balancing BSTs)
+13) AVL Trees (Self Balancing BSTs), RB Trees, Treaps
 14) Implementation of doubly linked lists (Circular)
+15) Skip Lists (randomized data structures)
